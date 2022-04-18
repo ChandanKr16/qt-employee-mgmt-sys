@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Corporate Management.png</file>
+        <file>icons8_Find_User_Male_50px.png</file>
+        <file>icons8_Add_User_Male_50px.png</file>
+        <file>icons8_Initiate_Money_Transfer_50px.png</file>
+        <file>icons8_Money_50px_1.png</file>
+        <file>icons8_Registration_50px.png</file>
+        <file>icons8_Remove_User_Male_50px.png</file>
+        <file>icons8_Request_Money_50px.png</file>
+        <file>icons8_Hand_50px.png</file>
+        <file>absentbg.png</file>
+        <file>attendancebg.png</file>
+        <file>empcardbg.png</file>
+        <file>sort.png</file>
+        <file>cal.png</file>
+        <file>id_card.png</file>
+        <file>bottom.png</file>
+        <file>bottom right.png</file>
+        <file>top_bar.png</file>
+        <file>company_card.png</file>
+        <file>personal_card.png</file>
+        <file>top_left.png</file>
+        <file>top_right.png</file>
+        <file>cpp.png</file>
+        <file>css.png</file>
+        <file>html.png</file>
+        <file>mysql.png</file>
+        <file>qt.png</file>
+    </qresource>
+</RCC>
